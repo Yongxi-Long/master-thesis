@@ -1,4 +1,5 @@
-This folder contains all codes used for the simulation section in my thesis
+This folder contains all codes used for the simulation section in my thesis\\
+
 simulation-scenarios.r: defines all six simulation scenarios used in my thesis, run this first
 functions.r: self-defined functions to perform the simulation
 functions-bias.r: self-defined functions to calculate average treatment effect estimates as defined in my thesis
